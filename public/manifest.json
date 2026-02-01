@@ -1,0 +1,23 @@
+{
+  "name": "MatteiWeekly Manager",
+  "short_name": "MatteiWeekly",
+  "description": "Piattaforma di gestione per il giornalino scolastico ITIS E. Mattei",
+  "version": "1.2.0",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
